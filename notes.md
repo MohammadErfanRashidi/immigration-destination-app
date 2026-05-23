@@ -703,6 +703,53 @@ https://remote.com/resources/research/global-life-work-balance-index
 
 - Austria
 
+### Countries above 40 percent tax
+https://worldpopulationreview.com/country-rankings/highest-taxed-countries
+
+- Finland
+
+- Japan
+
+- Denmark
+
+- Austria
+
+- Sweden
+
+- Belgium
+
+- Slovenia
+
+- Netherlands
+
+- Portugal
+
+- Norway
+
+- Spain
+
+- Iceland
+
+- China
+
+- Germany
+
+- United Kingdom
+
+- France
+
+- South Africa
+
+- South Korea
+
+- Australia
+
+- Greece
+
+- Italy
+
+- Ireland
+
 ---
 
 ## Create the dataframe
@@ -712,14 +759,17 @@ We will then add columns for each attribute and give a binary number if the coun
 
 We will also add categorical columns that we do not have the data for yet like
 
-- Tax
-
 - Climate
 
 - Continent
 
-- Left and Right wing
-
 - Religion
 
 - Race
+
+---
+
+## Create the web app using streamlit
+
+Our dataset is mostly binary, the user must be able to choose if they want the 1 in that filter for instance,
+does the user want to live in a country where there are many Iranians? if yes they choose 1, if no they dont want Iranians to be there, they choose 0, or if they do not care whether there are Iranians or not, they they leave indifferent and the filter does not apply at all. 
