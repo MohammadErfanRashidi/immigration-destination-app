@@ -2,6 +2,9 @@
 
 A data-driven Streamlit app to help Iranians find the best country to immigrate to, based on 20+ criteria such as safety, healthcare, job opportunities, presence of Iranian diaspora, and more.
 
+## Demo
+[Streamlit web-app](https://immigration-destination-app-cus2rp8driafthffvmtkk2.streamlit.app/)
+
 ## 📋 Project Overview
 
 - **Goal:** Filter a curated list of countries using binary (Yes/No) and categorical preferences.
