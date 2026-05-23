@@ -1,0 +1,64 @@
+country,english_status,safest,least_racist,best_healthcare,best_wage_cost_balance,most_iranians,highest_paying_psychology,top_education,best_immigration_policies,top_passport,highest_job_opportunities,most_migrant_acceptance,best_healthcare_cost_to_salary,lowest_tolerance_on_drugs,highest_annual_reading_rate,best_mental_health_care,most_psychologists_per_capita,healthiest,most_prosperous,best_public_transport,cleanest,pregnancy_leave_above_20_weeks,best_work_life_balance,tax_above_40_percent,continent,climate,religion,race
+Argentina,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,South America,Temperate/Arid,Christian,White
+Australia,first,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,Oceania,Arid,Christian,White
+Austria,second,1,1,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,1,Europe,Temperate,Christian,Austrian
+Bahrain,not dominant,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Asia,Arid,Muslim,Bahraini
+Belgium,second,1,1,1,1,0,0,1,1,1,0,0,0,0,0,0,0,0,1,1,1,0,1,1,Europe,Temperate,Christian,Belgian
+Brazil,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,South America,Tropical,Christian,White
+Bulgaria,not dominant,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Europe,Cold,Christian,Bulgarian
+Canada,first,1,1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,0,0,1,0,0,1,0,North America,Cold,Christian,White
+China,not dominant,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,Asia,Arid,Unaffiliated,Han Chinese
+Costa Rica,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,North America,Tropical,Christian,White/Mestizo
+Croatia,not dominant,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Europe,Cold,Christian,Croat
+Cuba,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,North America,Tropical,Christian,White
+Czechia,not dominant,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,0,0,Europe,Cold,Unaffiliated,Czech
+Denmark,second,1,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,0,1,0,1,0,1,1,Europe,Cold,Christian,Danish
+EU,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Europe,Temperate,Christian,European
+Ecuador,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,South America,Tropical,Christian,Mestizo
+Estonia,not dominant,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Europe,Cold,Unaffiliated,Estonian
+Finland,second,1,1,0,0,0,0,1,0,1,0,0,1,0,1,1,0,0,1,0,1,0,1,1,Europe,Cold,Christian,Finn
+France,not dominant,0,0,0,1,1,0,1,0,1,0,0,1,0,1,1,0,0,0,1,1,0,0,1,Europe,Temperate,Christian,French
+Germany,second,0,0,1,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,0,1,1,Europe,Temperate,Christian,German
+Greece,not dominant,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,Europe,Temperate,Christian,Greek
+Guatemala,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,North America,Tropical,Christian,Mestizo
+Hong Kong,not dominant,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,Asia,Temperate,Unaffiliated,Chinese
+Hungary,not dominant,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Europe,Cold,Christian,Hungarian
+Iceland,not dominant,1,1,0,0,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,0,0,1,Europe,Cold,Christian,Icelandic
+Indonesia,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Asia,Temperate,Muslim,Javanese
+Iran,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Asia,Arid,Muslim,Persian
+Iraq,not dominant,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Asia,Arid,Muslim,Arab
+Ireland,first,1,1,1,1,0,1,1,0,1,1,1,0,0,0,0,0,0,1,0,0,1,1,1,Europe,Temperate,Christian,Irish
+Israel,not dominant,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Asia,Arid,Jewish,Jewish
+Italy,not dominant,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,1,Europe,Temperate,Christian,Italian
+Japan,not dominant,0,0,1,0,0,0,1,0,1,0,0,1,1,1,0,0,1,0,0,0,0,0,1,Asia,Temperate,Unaffiliated,Japanese
+Kuwait,not dominant,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Asia,Arid,Muslim,Kuwaiti
+Latvia,not dominant,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Europe,Cold,Christian,Latvian
+Liechtenstein,not dominant,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Europe,Cold,Christian,Liechtensteiner
+Lithuania,not dominant,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Europe,Cold,Christian,Lithuanian
+Luxembourg,second,1,1,0,1,0,0,0,1,1,0,0,1,0,0,0,0,1,1,0,1,0,0,0,Europe,Temperate,Christian,Luxembourger
+Malaysia,second,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Asia,Tropical,Muslim,Malay
+Malta,not dominant,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Europe,Temperate,Christian,Maltese
+Netherlands,second,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,0,1,0,1,1,Europe,Temperate,Christian,Dutch
+New Zealand,first,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,Oceania,Temperate,Christian,White
+North Korea,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Asia,Cold,Unaffiliated,Korean
+Norway,second,1,1,1,0,0,0,1,1,1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,Europe,Cold,Christian,Norwegian
+Peru,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,South America,Tropical,Christian,Mestizo
+Philippines,second,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Asia,Tropical,Christian,Filipino
+Poland,second,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Europe,Cold,Christian,Polish
+Portugal,second,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Europe,Temperate,Christian,Portuguese
+Romania,not dominant,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Europe,Cold,Christian,Romanian
+Saudi Arabia,not dominant,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Asia,Arid,Muslim,Arab
+Singapore,second,0,0,1,0,0,0,1,0,1,0,0,0,1,0,0,0,1,0,1,0,0,0,0,Asia,Tropical,Buddhist,Chinese
+Slovakia,not dominant,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Europe,Cold,Christian,Slovak
+Slovenia,not dominant,0,0,0,1,0,0,1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,Europe,Cold,Christian,Slovene
+South Africa,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Africa,Arid,Christian,Black African
+South Korea,not dominant,0,0,1,0,0,0,1,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,Asia,Cold,Unaffiliated,Korean
+Spain,not dominant,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,1,0,0,1,1,Europe,Arid,Christian,Spanish
+Sweden,second,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,Europe,Cold,Christian,Swedish
+Switzerland,second,1,1,1,0,0,1,0,1,1,1,0,1,0,1,0,0,1,1,0,1,0,0,0,Europe,Cold,Christian,Swiss
+Taiwan,not dominant,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Asia,Temperate,Unaffiliated,Taiwanese
+Turkey,not dominant,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Asia,Arid,Muslim,Turkish
+United Arab Emirates,not dominant,0,0,0,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Asia,Arid,Muslim,Emirati
+United Kingdom,first,0,1,0,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,1,1,1,1,1,Europe,Temperate,Christian,White
+United States,first,0,0,1,0,1,1,0,0,1,0,1,0,0,1,0,1,0,0,1,0,0,0,0,North America,Temperate,Christian,White
+Vietnam,not dominant,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Asia,Tropical,Unaffiliated,Vietnamese

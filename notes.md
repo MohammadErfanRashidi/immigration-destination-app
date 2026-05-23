@@ -670,9 +670,47 @@ https://worldpopulationreview.com/country-rankings/maternity-leave-by-country
 
 - Italy
 
+### Best work life balance
+https://remote.com/resources/research/global-life-work-balance-index
+
+- New Zealand
+
+- Ireland
+
+- Belgium
+
+- Germany
+
+- Norway
+
+- Denmark
+
+- Canada
+
+- Australia
+
+- Finland
+
+- Spain
+
+- Netherlands
+
+- Portugal
+
+- United Kingdom
+
+- Argentina
+
+- Austria
+
 ---
 
 ## Create the dataframe
+
+We now create a dataframe with country names as rows
+We will then add columns for each attribute and give a binary number if the country was present in that category
+
+We will also add categorical columns that we do not have the data for yet like
 
 - Tax
 
@@ -681,3 +719,7 @@ https://worldpopulationreview.com/country-rankings/maternity-leave-by-country
 - Continent
 
 - Left and Right wing
+
+- Religion
+
+- Race
